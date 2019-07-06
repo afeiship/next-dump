@@ -33,6 +33,7 @@
     "next-nice-comments": "github:afeiship/next-nice-comments"
   },
   "dependencies": {
+    "chalk": "^2.4.2",
     "next-js-core2": "github:afeiship/next-js-core2"
   }
 }
